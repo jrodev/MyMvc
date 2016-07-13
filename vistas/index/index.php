@@ -1,0 +1,1 @@
+<marquee>BIENVENIDO AL SISTEMA</marquee>
